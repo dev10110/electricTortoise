@@ -3,3 +3,7 @@
 
 
 mypython/
+
+*.pyc
+dist/
+*.egg-info
